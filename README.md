@@ -1,2 +1,18 @@
-# noor-kurtis
-A premium kurti faishon website built using HTML, CSS  and Javascript with a modern inspired design.
+# Noor Kurtis
+A modern fashion website for showcasing premium kurti collections.
+
+## Features
+- Responsive Design
+- Modern UI
+- Product Collection Section
+- About Section
+- Contact Section
+- Smooth Scrolling Navigation
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Vanshika Rawat
